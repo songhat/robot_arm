@@ -1,1 +1,0 @@
-/home/songhat/catkin_ws/devel/.private/franka_msgs/share/roseus/ros/franka_msgs/manifest.l

@@ -1,1 +1,0 @@
-/home/songhat/catkin_ws/devel/.private/franka_gripper/share/franka_gripper/msg/GraspFeedback.msg

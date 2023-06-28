@@ -1,7 +1,0 @@
-Symlinking /home/songhat/catkin_ws/devel/share/panda_robot/cmake/panda_robotConfig-version.cmake
-Symlinking /home/songhat/catkin_ws/devel/share/panda_robot/cmake/panda_robotConfig.cmake
-Symlinking /home/songhat/catkin_ws/devel/lib/panda_robot/cmake.lock
-Symlinking /home/songhat/catkin_ws/devel/lib/panda_robot/demo_endeffector_keyboard.py
-Symlinking /home/songhat/catkin_ws/devel/lib/panda_robot/panda_robot.py
-Symlinking /home/songhat/catkin_ws/devel/lib/pkgconfig/panda_robot.pc
-Symlinking /home/songhat/catkin_ws/devel/lib/python3/dist-packages/panda_robot/__init__.py

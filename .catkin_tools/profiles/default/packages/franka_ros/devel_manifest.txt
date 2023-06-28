@@ -1,2 +1,0 @@
-franka_ros/franka_ros
-/home/songhat/catkin_ws/devel/.private/franka_ros/cmake.lock /home/songhat/catkin_ws/devel/./cmake.lock

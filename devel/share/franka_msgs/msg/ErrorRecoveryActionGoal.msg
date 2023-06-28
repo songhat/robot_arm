@@ -1,1 +1,0 @@
-/home/songhat/catkin_ws/devel/.private/franka_msgs/share/franka_msgs/msg/ErrorRecoveryActionGoal.msg
